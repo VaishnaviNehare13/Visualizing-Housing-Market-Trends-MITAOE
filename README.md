@@ -1,4 +1,4 @@
-﻿# 🏠 Visualizing Housing Market Trends  
+# 🏠 Visualizing Housing Market Trends  
 **An Analysis of Sale Prices and Features Using Tableau**
 
 ## 📌 Project Overview
@@ -47,6 +47,7 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 - 📊 **Dashboard**: [Comprehensive House Price Analysis](https://public.tableau.com/views/Smart_Bridge_Project_by_Vaishnavi_Nehare_and_Group_MITAOE_US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 - 📖 **Story**: [Housing Market Trends Story](https://public.tableau.com/views/Smart_Bridge_Project_Storyboard_by_Vaishnavi_Nehare_and_Group_US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## 🛠 Tools Used
@@ -60,18 +61,16 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 ## 👥 Team Members
 
 - **Vedanti Lambkane**  
-  * Data Collection· Data Preparation · Performance Testing ·Project Design ·*
+  *Data Collection · Data Preparation · Performance Testing · Project Design*
 
 - **Vaishnavi Nehare**  
-  *Requirement Analysis · Project Executable Files · Documentation & Demo · Visualization for Scenario 2 & 3 · Dash Board Creation · Story Devlopment*
+  *Requirement Analysis · Project Executable Files · Documentation & Demo · Visualization for Scenario 2 & 3 · Dashboard Creation · Story Development*
 
 - **Rutuja Munge**  
-  * Ideation Phase· Project Planning Phase · Visualization for Scenario 4 *
+  *Ideation Phase · Project Planning Phase · Visualization for Scenario 4*
 
 - **Prallavi Mankar**  
-  *  Visualization for Scenario 1 · Project Executable Files *
-
-
+  *Visualization for Scenario 1 · Project Executable Files*
 
 ---
 
@@ -85,8 +84,5 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 ## 📞 Contact & Connect
 
-- **LinkedIn**: [www.linkedin.com/in/vaishnavi-nehare13]
-- **Email**: [vsnehare48@gmail.com]
-
----
-
+- **LinkedIn**: [www.linkedin.com/in/vaishnavi-nehare13](https://www.linkedin.com/in/vaishnavi-nehare13)
+- **Email**: vsnehare48@gmail.com
